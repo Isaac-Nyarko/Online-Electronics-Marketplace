@@ -1,5 +1,7 @@
 PROJECT TITLE: <h1>Khay Jnr-Electronics Shop</h1>
 <hr>
+
+<a href="https://github.com/Isaac-Nyarko/Online-Electronics-Marketplace/blob/main/Screenshot%20of%20Landing%20Page.png">Picture of my Landing Page</a> <br>
 Link to my final project demo/video
 <a href="https://youtu.be/9injWx7_Olk">My Project Link</a>
 <hr>
