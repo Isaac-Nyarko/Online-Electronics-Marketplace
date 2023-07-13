@@ -1,3 +1,8 @@
+PROJECT TITLE: <h1>Khay Jnr-Electronics Shop</h1>
+<hr>
+Link to my final project demo/video
+<a href="https://youtu.be/9injWx7_Olk">My Project Link</a>
+<hr>
 Online Electronics Marketplace
 This is an online marketplace platform dedicated to electronics, where users can buy and sell various electronic products. The platform provides a convenient and secure way for individuals and businesses to trade electronics with ease.
 
@@ -17,3 +22,9 @@ Rating and Reviews: Users can leave ratings and reviews for products they have p
 Order Tracking: Buyers can track the status of their orders, including shipping and delivery updates. This feature provides transparency and keeps users informed throughout the purchasing process.
 
 Messaging System: A built-in messaging system enables communication between buyers and sellers, facilitating inquiries, negotiations, and resolving any concerns or issues.
+
+<hr>
+Author=> Isaac Nyarko <br>
+E-mail=> Isaacofosu935@gmail.com
+<hr>
+License: This website is not license under any law.
